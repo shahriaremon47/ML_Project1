@@ -1,6 +1,6 @@
 Titanic Machine Learning Project
-Author: Hasan Shahriar Emon
-Date: September 11, 2025
+ Author: Hasan Shahriar Emon
+ Date: September 11, 2025
 
 This project predicts Titanic passenger survival using Logistic Regression.
 Files:
