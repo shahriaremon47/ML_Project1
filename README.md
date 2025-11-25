@@ -1,9 +1,10 @@
 Titanic Machine Learning Project
- Author: Hasan Shahriar Emon
- Date: September 11, 2025
+
+Date Created: September 11, 2025
 
 This project predicts Titanic passenger survival using Logistic Regression.
-Files:
+
+Files included:
 - first_ml_project.ipynb: Jupyter Notebook with code and outputs.
 - titanic_predictions.csv: Kaggle submission file with predictions.
 - survival_by_sex.png, survival_by_pclass.png: Visualizations of survival rates.
