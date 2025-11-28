@@ -4,6 +4,8 @@ Date Created: September 11, 2025
 
 This project predicts Titanic passenger survival using Logistic Regression.
 
+List of libraries used (numpy, pandas, matplolib).
+
 Files included:
 - first_ml_project.ipynb: Jupyter Notebook with code and outputs.
 - titanic_predictions.csv: Kaggle submission file with predictions.
